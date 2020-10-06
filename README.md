@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+06/10/2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare project with Python
 
 ### Description
-Describe what your project is about and what it does
+Using python, the bikeshare file allow the user to introduce a city, month and day of the year 2017 and get some importante information from a database of the city that was selected.
 
 ### Files used
-Include the files used
+The files used are: 1 python file, and 3 csv files, each one from one of the 3 cities (Chicago, New York city and Washigton)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+To the great Udacity program.
