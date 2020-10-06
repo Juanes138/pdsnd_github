@@ -10,5 +10,9 @@ Using python, the bikeshare file allow the user to introduce a city, month and d
 ### Files used
 The files used are: 1 python file, and 3 csv files, each one from one of the 3 cities (Chicago, New York city and Washigton)
 
+### Software requeriments
+To run the bikeshare project, you should have Python 3 installed in your computer.
+
+
 ### Credits
 To the great Udacity program.
