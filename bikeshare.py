@@ -236,7 +236,7 @@ def load_data(city, month, day):
     second_digit=['','','','','']
     contador=-1
     if day != 'all':
-        for i in range (len(day_num)):
+        for i in day_num:
             num_string = str(day_num[i])
             first_digit[i]=num_string[0]
             second_digit[i]=num_string[1]
